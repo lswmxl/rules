@@ -1,2 +1,2 @@
 payload:
-  - "URL-REGEX,^https?:\/\/gspe1-ssl\.ls\.apple\.com\/pep\/gcc,https://www.baidu.com"
+  - "URL-REGEX,^https?:\/\/gspe1-ssl\.ls\.apple\.com\/pep\/gcc,https://raw.githubusercontent.com/qsoyq/shell/main/config/stash/rewrite/location/uk"
